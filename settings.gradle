@@ -1,0 +1,1 @@
+include ':app', ':ckb_test_library'
